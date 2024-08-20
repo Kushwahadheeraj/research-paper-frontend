@@ -1,0 +1,34 @@
+
+.menu:hover .menu-bar-1{
+    display: block;
+    position: absolute;
+    z-index: 20;
+    margin-left: -15px;
+
+}
+
+.hover-me:hover 
+.menu-bar-2{
+    display: block;
+    position: absolute;
+    z-index: 20;
+    margin-top: -40px;
+    margin-left: 180px;
+    width: 200px;
+
+}
+
+.menu-mobile:hover .menu-bar-1{
+    display: block;
+    position: absolute;
+    z-index: 20;
+    margin-left: 15px;
+
+}
+.hover-mobile:hover .menu-bar-2{
+    display: block;
+    position: absolute;
+    z-index: 20;
+    margin-left: 15px;
+    width: 200px;
+}
